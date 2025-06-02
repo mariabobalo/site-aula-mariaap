@@ -1,0 +1,1 @@
+alert ('frutas fazem bem para saúde');
